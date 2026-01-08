@@ -3,3 +3,7 @@ Welcome to CookPro!  " Smarter Recipe. Better Meals."  , Enter your ingredients 
 
 ---
 ✨ **Designed by Alok Tiwari, Built with the assistance of AI (Gemini, ChatGPT, and Amazon Q) and inspired by Pinterest. Coded in VS Code.
+
+🔗 Quick Links
+🚀 View Live Website | 🎨 Design Inspiration
+
